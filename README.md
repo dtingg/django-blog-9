@@ -1,5 +1,5 @@
-# django-blog-8
-Lesson 08 Assignment: Django Addons & Security  
+# django-blog-9
+Lesson 09 Assignment: Django Deployment
 
 I added two enhancements:  
 <h3>Django All-Auth</h3>  

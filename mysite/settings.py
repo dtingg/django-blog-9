@@ -138,6 +138,3 @@ LOGIN_URL = "/login/"
 LOGIN_REDIRECT_URL = "/"
 
 SITE_ID = 1
-
-# Try this for https
-SOCIAL_AUTH_REDIRECT_IS_HTTPS = True
